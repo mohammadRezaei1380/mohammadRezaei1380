@@ -8,6 +8,10 @@ A passionate back-end developer who enjoys providing creative solutions.
 
 ## Open Source Contributions
 
+### symfony
+
+<img src="https://avatars.githubusercontent.com/u/143937?s=48&v=4" width="15"> [symfony]([https://github.com/laravel/laravel/pulls?q=is%3Amerged+is%3Apr+author%3AmohammadRezaei1380](https://github.com/symfony/symfony-docs/pulls?q=is%3Amerged+is%3Apr+author%3AmohammadRezaei1380)) <br>
+
 ### Laravel
 
 <img src="https://laravel.com/img/logomark.min.svg" width="15"> [Laravel](https://github.com/laravel/laravel/pulls?q=is%3Amerged+is%3Apr+author%3AmohammadRezaei1380) <br>
